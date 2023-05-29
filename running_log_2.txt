@@ -1,0 +1,32 @@
+Build at: 2023-05-29T14:39:44.050Z - Hash: e680949dbc53df44 - Time: 360ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                      | Names                      | Raw Size
+runtime.js                               | runtime                    | 12.63 kB |
+
+Lazy Chunk Files                         | Names                      | Raw Size
+src_app_customers_customers_module_ts.js | customers-customers-module |  9.52 kB |
+
+7 unchanged chunks
+
+Build at: 2023-05-29T14:39:46.296Z - Hash: 3765b401416df92d - Time: 311ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                      | Names                      |  Raw Size
+runtime.js                               | runtime                    |  12.63 kB |
+main.js                                  | main                       |   9.92 kB |
+
+Lazy Chunk Files                         | Names                      |  Raw Size
+src_app_products_products_module_ts.js   | products-products-module   | 300.66 kB |
+src_app_customers_customers_module_ts.js | customers-customers-module |   9.83 kB |
+common.js                                | common                     |   3.19 kB |
+
+4 unchanged chunks
+
+Build at: 2023-05-29T14:40:06.700Z - Hash: c91505e45d4f5e62 - Time: 422ms
+
+✔ Compiled successfully.

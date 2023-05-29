@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CustomersComponent implements OnInit {
   public condition: boolean = false;
+  public msg: string = 'Hi, pipes';
 
   constructor() { }
 

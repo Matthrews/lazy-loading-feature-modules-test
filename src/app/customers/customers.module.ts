@@ -5,12 +5,14 @@ import { CustomersRoutingModule } from './customers-routing.module';
 import { CustomersComponent } from './customers.component';
 import { BarPipe } from './a.pipe';
 import { UnlessDirective } from '../orders/b.directive';
+import { FucPipe } from '../products/c.pipe';
 
 @NgModule({
   declarations: [
     CustomersComponent,
     BarPipe,
-    UnlessDirective
+    UnlessDirective,
+    FucPipe,
   ],
   imports: [
     CommonModule,

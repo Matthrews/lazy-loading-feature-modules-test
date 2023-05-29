@@ -1,9 +1,17 @@
 <p>customers works!</p>
 
+<hr>
+<h2>Use Directive from lazy-loaded orders module</h2>
 <button type="button" (click)="condition = !condition">
   Toggle condition to {{ condition ? 'false' : 'true' }}
 </button>
 
 <div *appUnless="condition" class="success">
   Congrats! Everything is great!
+</div>
+
+<hr>
+<h2>Use Pipe from lazy-loaded products module</h2>
+<div class="success">
+  {{ msg | fuc }}
 </div>
