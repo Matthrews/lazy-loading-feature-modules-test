@@ -1,0 +1,28 @@
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                      | Names                      | Raw Size
+runtime.js                               | runtime                    | 12.63 kB |
+
+Lazy Chunk Files                         | Names                      | Raw Size
+src_app_customers_customers_module_ts.js | customers-customers-module |  7.90 kB |
+
+6 unchanged chunks
+
+Build at: 2023-05-29T14:22:06.542Z - Hash: 00f4f7bc9a36d187 - Time: 301ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                      | Names                      | Raw Size
+runtime.js                               | runtime                    | 12.63 kB |
+main.js                                  | main                       |  9.87 kB |
+
+Lazy Chunk Files                         | Names                      | Raw Size
+src_app_customers_customers_module_ts.js | customers-customers-module |  8.25 kB |
+src_app_orders_orders_module_ts.js       | orders-orders-module       |  5.42 kB |
+
+5 unchanged chunks
+
+Build at: 2023-05-29T14:22:18.275Z - Hash: 9c1bbefb6bfe7bd7 - Time: 317ms
+
+✔ Compiled successfully.

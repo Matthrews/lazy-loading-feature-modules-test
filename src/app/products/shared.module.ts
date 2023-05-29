@@ -1,7 +1,3 @@
-export const fuc = () => {
-  console.log('I am fuc from products...');
-};
-
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';

@@ -1,1 +1,9 @@
 <p>customers works!</p>
+
+<button type="button" (click)="condition = !condition">
+  Toggle condition to {{ condition ? 'false' : 'true' }}
+</button>
+
+<div *appUnless="condition" class="success">
+  Congrats! Everything is great!
+</div>
