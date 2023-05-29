@@ -1,0 +1,153 @@
+npm install && npm run%
+➜  customer-app git:(main) npm install && npm run start
+
+up to date, audited 936 packages in 4s
+
+123 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+> customer-app@0.0.0 start
+> ng serve
+
+? Would you like to share pseudonymous usage data about this project with the Angular Team
+at Google under Google's Privacy Policy at https://policies.google.com/privacy. For more
+details and how to change this setting, see https://angular.io/analytics. Yes
+
+Thank you for sharing pseudonymous usage data. Should you change your mind, the following
+command will disable this feature entirely:
+
+    ng analytics disable
+
+Global setting: enabled
+Local setting: enabled
+Effective status: enabled
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files   | Names         |  Raw Size
+vendor.js             | vendor        |   2.12 MB |
+polyfills.js          | polyfills     | 318.01 kB |
+styles.css, styles.js | styles        | 210.56 kB |
+main.js               | main          |  49.86 kB |
+runtime.js            | runtime       |   6.52 kB |
+
+                      | Initial Total |   2.69 MB
+
+Build at: 2023-05-29T12:53:27.857Z - Hash: 40bbf80c1dca0280 - Time: 21684ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                      | Names                      | Raw Size
+main.js                                  | main                       | 50.09 kB |
+runtime.js                               | runtime                    | 12.63 kB |
+
+Lazy Chunk Files                         | Names                      | Raw Size
+src_app_customers_customers_module_ts.js | customers-customers-module |  5.37 kB |
+
+3 unchanged chunks
+
+Build at: 2023-05-29T12:59:21.165Z - Hash: 029c389fc69c0fda - Time: 948ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                | Names                | Raw Size
+main.js                            | main                 | 50.31 kB |
+runtime.js                         | runtime              | 12.63 kB |
+
+Lazy Chunk Files                   | Names                | Raw Size
+src_app_orders_orders_module_ts.js | orders-orders-module |  5.17 kB |
+
+4 unchanged chunks
+
+Build at: 2023-05-29T13:00:11.778Z - Hash: 7e4ceaba507d7ccb - Time: 934ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+7 unchanged chunks
+
+Build at: 2023-05-29T13:00:23.177Z - Hash: 7e4ceaba507d7ccb - Time: 243ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+runtime.js          | runtime | 12.63 kB |
+main.js             | main    |  9.10 kB |
+
+5 unchanged chunks
+
+Build at: 2023-05-29T13:01:15.594Z - Hash: 9b4c8cd1853274f0 - Time: 740ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+7 unchanged chunks
+
+Build at: 2023-05-29T13:01:18.261Z - Hash: 9b4c8cd1853274f0 - Time: 232ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+runtime.js          | runtime | 12.63 kB |
+main.js             | main    |  9.16 kB |
+
+5 unchanged chunks
+
+Build at: 2023-05-29T13:01:44.319Z - Hash: a927cd0bf851dfac - Time: 240ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+runtime.js          | runtime | 12.63 kB |
+main.js             | main    |  9.24 kB |
+
+5 unchanged chunks
+
+Build at: 2023-05-29T13:01:57.398Z - Hash: dd726faaa60d3097 - Time: 255ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files                    | Names                    | Raw Size
+runtime.js                             | runtime                  | 12.63 kB |
+main.js                                | main                     |  9.48 kB |
+
+Lazy Chunk Files                       | Names                    | Raw Size
+src_app_products_products_module_ts.js | products-products-module |  5.30 kB |
+
+5 unchanged chunks
+
+Build at: 2023-05-29T13:02:40.436Z - Hash: d7725c3edf6f843e - Time: 570ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+runtime.js          | runtime | 12.63 kB |
+main.js             | main    |  9.50 kB |
+
+6 unchanged chunks
+
+Build at: 2023-05-29T13:02:55.358Z - Hash: b7d66e1bfc058393 - Time: 240ms
+
+✔ Compiled successfully.
+✔ Browser application bundle generation complete.
+
+Initial Chunk Files | Names   | Raw Size
+runtime.js          | runtime | 12.63 kB |
+main.js             | main    |  9.78 kB |
+
+6 unchanged chunks
+
+Build at: 2023-05-29T13:03:24.715Z - Hash: c15ea771614dc26b - Time: 258ms
+
+✔ Compiled successfully.
